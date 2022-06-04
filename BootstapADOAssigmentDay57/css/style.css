@@ -1,0 +1,68 @@
+﻿.social-icon {
+    /* background-color: rgb(194, 38, 38); */
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+    .social-icon:hover {
+        background-color: rgb(221, 224, 215);
+        padding: 10px;
+        font-size: 20px;
+        margin-right: 10px;
+        color: black;
+        margin-top: 10px;
+        border-radius: 70px;
+    }
+
+li {
+    padding: 10px;
+    color: white
+}
+
+    li:hover {
+        padding: 10px;
+        color: aquamarine;
+        font-weight: bold;
+        border-bottom: 2px solid red;
+    }
+
+.dashboard {
+    background-color: slategrey;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-align: center;
+    color: antiquewhite;
+}
+
+a {
+    text-decoration: none;
+}
+
+.in {
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 40px;
+    border: 2px solid grey;
+}
+
+    .in:hover {
+        width: 300px;
+        border: 2px solid #2ef29a;
+        background-color: antiquewhite;
+    }
+
+.Label {
+    margin-left: 45px;
+    color: #30b378;
+}
+
+.btn {
+    margin-left: 45px;
+    color: #30b378;
+    background-color: black;
+}
